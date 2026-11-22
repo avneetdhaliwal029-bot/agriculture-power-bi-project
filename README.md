@@ -1,5 +1,4 @@
-# Install dependencies as needed:
-# pip install kagglehub[pandas-datasets]
+
 import kagglehub
 from kagglehub import KaggleDatasetAdapter
 
